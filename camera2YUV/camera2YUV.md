@@ -2,7 +2,7 @@
 ### 作者：张瀚文 2201212865
 ### 要求：
 - 帧率 : 15fps
-- 尺寸 : 320*240
+- 尺寸 : 320x2440
 - 色度格式 : 4:2:0
 ### 步骤：
 1. 下载ffmpeg格式转换工具 https://ffmpeg.org/about.html
@@ -13,5 +13,5 @@
 4. 运行指令，可以观察到目录下新生成的yami.yuv文件
 ![](https://github.com/hanwen76/DMT_2022/blob/main/camera2YUV/runPowershell.png)
 ![](https://github.com/hanwen76/DMT_2022/blob/main/camera2YUV/generateYUV.png)
-5. 
-### 结果：
+5. 下载YUView，播放YUV格式的视频，检验格式是否转换成功;播放时注意设置好尺寸和色度格式
+![](https://github.com/hanwen76/DMT_2022/blob/main/camera2YUV/viewYUV.png)
